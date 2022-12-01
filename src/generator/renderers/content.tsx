@@ -11,7 +11,7 @@ import {
   DiscordUnderlined,
 } from '@derockdev/discord-components-react';
 import parse, { type RuleTypesExtended } from 'discord-markdown-parser';
-import { ChannelType, type APIMessageComponentEmoji } from 'discord.js';
+import { ChannelType, type APIMessageComponentEmoji } from 'discord-js-v14';
 import React, { Fragment, type ReactNode } from 'react';
 import type { ASTNode, SingleASTNode } from 'simple-markdown';
 import type { RenderMessageContext } from '../';

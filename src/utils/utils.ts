@@ -1,4 +1,4 @@
-import type { APIMessageComponentEmoji, Emoji } from 'discord.js';
+import type { APIMessageComponentEmoji, Emoji } from 'discord-js-v14';
 import { request } from 'undici';
 import twemoji from 'twemoji';
 

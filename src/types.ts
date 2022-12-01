@@ -1,4 +1,4 @@
-import type { AttachmentBuilder } from 'discord.js';
+import type { AttachmentBuilder } from 'discord-js-v14';
 import type { RenderMessageContext } from './generator';
 
 export type AttachmentTypes = 'audio' | 'video' | 'image' | 'file';

@@ -5,7 +5,7 @@ import {
   DiscordEmbedFields,
   DiscordEmbedFooter,
 } from '@derockdev/discord-components-react';
-import type { Embed, Message } from 'discord.js';
+import type { Embed, Message } from 'discord-js-v14';
 import React from 'react';
 import type { RenderMessageContext } from '..';
 import { calculateInlineIndex } from '../../utils/embeds';

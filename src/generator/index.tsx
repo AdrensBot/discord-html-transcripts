@@ -1,4 +1,4 @@
-import { ChannelType, type Awaitable, type Channel, type Message, type Role, type User } from 'discord.js';
+import { ChannelType, type Awaitable, type Channel, type Message, type Role, type User } from 'discord-js-v14';
 import ReactDOMServer from 'react-dom/server';
 import React from 'react';
 import { DiscordHeader, DiscordMessages } from '@derockdev/discord-components-react';

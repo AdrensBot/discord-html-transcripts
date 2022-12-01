@@ -1,4 +1,4 @@
-import { AttachmentBuilder, version, Collection, type Channel, type Message, type TextBasedChannel } from 'discord.js';
+import { AttachmentBuilder, version, Collection, type Channel, type Message, type TextBasedChannel } from 'discord-js-v14';
 import renderMessages from './generator';
 import {
   ExportReturnType,

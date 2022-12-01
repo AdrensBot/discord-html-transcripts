@@ -1,4 +1,4 @@
-import * as discord from 'discord.js';
+import * as discord from 'discord-js-v14';
 import { createTranscript } from '../src';
 
 import { config } from 'dotenv';
